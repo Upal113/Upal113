@@ -37,7 +37,7 @@ Helps monitor the water quality of an area/locality with real-time analytics, da
   - [Water Data Analysis Web App](https://github.com/Upal113/Water-Data-Analysis-Web-app)
 - <b>PIE Value Approximation</b> <br>
 The Python script is used to calculate pie value using 3 different algorithms, Archemedis, Lenbiz and Wallis. AWS EC2 Linux instance is used to try out different values, 8-999 to calculate how accurate those algorithms are in calculating pie values.
-  - [Pie Value Calculator]([https://github.com/Upal113/Water-Data-Analysis-Web-app](https://github.com/Upal113/Pie-Value-Calculation))
+  - [Pie Value Calculator]([https://github.com/Upal113/Pie-Value-Calculation])
 
 <br>
 
