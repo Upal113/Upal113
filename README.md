@@ -28,16 +28,13 @@ Fully functional online book store with integrated payments and dashboard for st
   
 <br>
 <h2> 📈 Data Science Projects:</h2>
+
 - <b>Water Data Analytics Web App</b> <br>
 Helps monitor the water quality of an area/locality with real-time analytics, dashboard, prediction, and alert management system. The web app uses Python for backend computing and visualization with a built-in Google Sheets database for alerts, and raw data.
   - [Water Data Analysis Web App](https://github.com/Upal113/Water-Data-Analysis-Web-app)
-- <b>PIE Value Approximation</b> <br>
-The Python script is used to calculate pie value using 3 different algorithms, Archemedis, Lenbiz, and Wallis. AWS EC2 Linux instance is used to try out different values, 8-999 to calculate how accurate those algorithms are in calculating pie values.
-  - [Pie Value Calculator](https://github.com/Upal113/Pie-Value-Calculation)
 - <b>Tweet Analyzer Web app</b> <br>
 The web app provides users with access to searching for specific terms by location and gaining in-depth analysis of the sentiment of tweets with the terms.  AWS Sentiment analysis API is used for the sentiment analysis.
   - [Tweet Analyzer Web App](https://github.com/Upal113/Pie-Value-Calculation)
-- <b>Dividend Calculator</b> <br>
 
 <br>
 
