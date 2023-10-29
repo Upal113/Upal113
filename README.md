@@ -28,9 +28,6 @@ Fully functional online book store with integrated payments and dashboard for st
   
 <br>
 <h2> 📈 Data Science Projects:</h2>
-- <b>Dividend Calculator</b> <br>
-The Dividend Analyzer web app takes a list of stocks and calculates how long they take to reach the dividend. 
-  - [Dividend-Calculator](https://github.com/Upal113/Dividend-Calculator)
 - <b>Water Data Analytics Web App</b> <br>
 Helps monitor the water quality of an area/locality with real-time analytics, dashboard, prediction, and alert management system. The web app uses Python for backend computing and visualization with a built-in Google Sheets database for alerts, and raw data.
   - [Water Data Analysis Web App](https://github.com/Upal113/Water-Data-Analysis-Web-app)
