@@ -28,7 +28,8 @@ Fully functional online book store with integrated payments and dashboard for st
   
 <br>
 <h2> 📈 Data Science Projects:</h2>
-
+The Dividend Analyzer web app takes a list of stocks and calculates how long they take to reach the dividend. 
+  - [Dividend-Calculator](https://github.com/Upal113/Dividend-Calculator)
 - <b>Water Data Analytics Web App</b> <br>
 Helps monitor the water quality of an area/locality with real-time analytics, dashboard, prediction, and alert management system. The web app uses Python for backend computing and visualization with a built-in Google Sheets database for alerts, and raw data.
   - [Water Data Analysis Web App](https://github.com/Upal113/Water-Data-Analysis-Web-app)
@@ -37,7 +38,8 @@ The Python script is used to calculate pie value using 3 different algorithms, A
   - [Pie Value Calculator](https://github.com/Upal113/Pie-Value-Calculation)
 - <b>Tweet Analyzer Web app</b> <br>
 The web app provides users with access to searching for specific terms by location and gaining in-depth analysis of the sentiment of tweets with the terms.  AWS Sentiment analysis API is used for the sentiment analysis.
-  - [Pie Value Calculator](https://github.com/Upal113/Pie-Value-Calculation)
+  - [Tweet Analyzer Web App](https://github.com/Upal113/Pie-Value-Calculation)
+- <b>Dividend Calculator</b> <br>
 
 <br>
 
