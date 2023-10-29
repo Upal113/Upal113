@@ -28,6 +28,7 @@ Fully functional online book store with integrated payments and dashboard for st
   
 <br>
 <h2> 📈 Data Science Projects:</h2>
+- <b>Dividend Calculator</b> <br>
 The Dividend Analyzer web app takes a list of stocks and calculates how long they take to reach the dividend. 
   - [Dividend-Calculator](https://github.com/Upal113/Dividend-Calculator)
 - <b>Water Data Analytics Web App</b> <br>
