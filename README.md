@@ -17,7 +17,7 @@ custom PowerShell script for filtering logging, and Azure Sentinel service
 AI Career Guide is an innovative initiative, currently under development, to help students transform skills into a career. The web app uses Flask back-end utilizing GPT-4 API to analyze skills, develop skill development roadmap for students
   - [AI Career Guide](https://github.com/Upal113/Showcase-AI-Career-Guide)
 - <b>Ride Share</b> <br>
-Simple web app to share rides with your friends! The ride distribution is based on time and availability, and users have the option to choose their riding partner.
+Simple web app to share rides with your friends! The ride distribution is based on time, availability, location. Users have the option to choose their riding partner.
   - [Ride Share Dhaka](https://github.com/Upal113/Ride-share-dhaka)
 - <b>Map Media</b> <br>
 A new way to discover friends on Map! Once someone signs up, their profile is created and displayed on map for discovery, finding friends in locality and connect.
