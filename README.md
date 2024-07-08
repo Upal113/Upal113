@@ -1,5 +1,5 @@
 <h1>Hi, I'm Upal! <br/><a href="https://github.com/Upal13">Programmer</a>, <a href="https://www.linkedin.com/in/upal-kundu/"> <a href="https://www.linkedin.com/in/upal-kundu/">Cybersecurity Professional</a></a></h1>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Upal113&theme=highcontrast)](https://git.io/streak-stats)
+
 <h2>🔏 Cyber Security Projects:</h2>
 
 - <b>Security Toolbox</b> <br>
